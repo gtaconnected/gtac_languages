@@ -1,0 +1,237 @@
+[Language]
+name=Polish
+native_name=Polski
+author=rww, Kunio, DaviD1985
+
+[Common]
+
+# Języki
+language_English=Angielski
+language_French=Francuski
+language_German=Niemiecki
+language_Italian=Włoski
+language_Spanish=Hiszpański
+language_Russian=Rosyjski
+language_Arabic=Arabski
+language_Chinese=Chiński (Uproszczony)
+language_Persian=Perski
+language_Portuguese=Portuguese
+language_Polish=Polish
+language_French=French
+
+# Wskazówki
+tip_Close=Zamknij
+tip_Okay=Zamknij i zapisz zmiany
+tip_Cancel=Zamknij bez zapisywania zmian
+
+# Kolumny
+column_Name=Nazwa
+column_Title=Tytuł
+column_Version=Wersja
+column_ModifiedDate=Data modyfikacji
+column_Description=Opis
+column_Key=Reguły
+column_Value=Wartości
+
+# Przyciski
+button_Okay=OK
+button_Close=Zamknij
+button_Cancel=Anuluj
+button_Yes=Tak
+button_No=Nie
+button_Retry=Spróbuj ponownie
+button_Abort=Anuluj
+
+[LauncherWindow]
+
+# Menu
+menu_File=&Plik
+menu_CheckForUpdates=Sprawdzanie aktualizacji...
+menu_Exit=Z&amknij
+
+menu_Server=&Serwer
+menu_AddServer=Dodaj serwer
+menu_DeleteServer=Usuń serwer
+
+menu_Tools=&Narzędzia
+menu_Settings=&Ustawienia...
+menu_ResetSettings=Resetuj ustawienia...
+menu_DesktopShortcut=Utwórz skrót na pulpicie
+
+menu_View=&Widok
+menu_Players=&Lista graczy
+menu_Rules=&Panel informacji serwera
+menu_FullWidthRules=Powiększ panel informacji serwera
+
+menu_Help=&Pomoc
+menu_RunDiagnostics=Uruchom &diagnostykę...
+menu_About=&O GTAC
+menu_FullWidthRules=Powiększ panel informacji serwera
+
+# Ogólne/Multiplayer
+menu_LargeIcons=Duże ikony
+menu_Refresh=Odśwież
+menu_Connect=Połącz
+menu_AddToFavourites=Dodaj do ulubionych
+menu_Favourite=Ulubiony
+menu_CopyServerIP=Skopiuj adres IP serwera
+menu_CopyAddress=Kopiuj adres
+menu_ViewPlayerMap=Zobacz mapę graczy...
+menu_VisitWebsite=Odwiedź stronę internetową...
+
+# Menu kontekstowe modów
+menu_ResetAll=Zresetuj wszystko
+menu_DisableAll=Wyłącz wszystko
+menu_Delete=Usuń
+
+# Otwórz menu
+menu_LauncherSettings=&Ustawienia przeglądarki...
+menu_GameSettings=&Ustawienia gry...
+menu_Resources=Zasoby
+menu_Crashes=Crashe
+menu_Caches=Pamięć podręczna
+menu_Logs=Logi
+
+# Messages
+message_ConfirmResetSettings=Czy jesteś pewny, że chcesz przywrócić przeglądarke GTAConnected do ustawień domyślnych?\nTej czynności nie można cofnąć, a po zresetowaniu, przeglądarka zostanie uruchomiony ponownie.
+
+# Zakładki
+tab_Favourites=Ulubione
+tab_Internet=Internet
+tab_Official=Oficjalne
+tab_History=Historia
+tab_Local=Lokalne
+tab_Mods=Modyfikacje
+
+# Status
+status_Disconnected=Rozłączono
+status_Connecting=Łączenie
+status_Connected=Połączono z listą serwerów
+
+# Etykiety
+label_Game=Gra:
+label_GameEXEPath=Ścieżka EXE gry:
+
+# Wskazówki
+tip_Games=Nazwa gry.
+tip_CloseLauncher=Zamknij to okno przy włączeniu gry.
+tip_Launch=Włącz grę.
+tip_BrowseForGame=Wskaż lokację pliku EXE gry.
+tip_ShowInExplorer=Pokaż plik EXE gry w {0}.
+tip_GameEXEPath=Ścieżka do pliku EXE gry.
+
+# Kolumny
+column_ServerName=Nazwa Serwera
+column_Players=Gracze
+column_GameMode=Tryb Gry
+
+# Group Boxes
+group_Players=Gracze
+group_Rules=Informacje serwera
+
+# Przyciski
+button_OpenMenu=Otwórz...
+button_CloseLauncher=Zamknij przeglądarke
+button_Launch=Start
+button_ShowInExplorer=Pokaż w przeglądarce {0}
+button_BrowseForGame=Przeszukaj...
+
+[AboutWindow]
+
+windowTitle=Info
+group_About=Info
+
+# Labels
+label_Product=Projekt:
+label_Copyright=Copyright © {0} {1}
+label_Version=Wersja:
+label_GitBranch=Git Branch:
+label_GitCommitHash=Git Commit Hash:
+label_PacketVersion=Wersja Pakietu:
+label_BuildDate=Data kompilacji:
+label_BuildTime=Godzina kompilacji:
+label_Website=Strona internetowa:
+label_Patreon=Patreon:
+label_CrashesThisWeek=Crashe w tym tygodniu:
+label_Developers=Deweloperzy:
+
+[SettingsWindow]
+
+windowTitle=Ustawienia przeglądarki
+gameSettingsTitle=Ustawienia gry
+
+# Zakładki
+tab_General=Ogólne
+tab_AdditionalResourcesFolders=Dodatkowe foldery z zasobami
+tab_AdditionalMods=Dodatkowe modyfikacje
+tab_Display=Ekran
+tab_Advanced=Zaawansowane
+tab_NonModHacks=Non-mod Hacks
+tab_Licenses=Licencje
+tab_Language=Język
+tab_BugFixes=Poprawki błędów
+tab_Debug=Debugowanie
+
+# Etykiety
+label_Name=Nick:
+
+# Additional resource folders
+button_ResourceAdd=Dodaj...
+tip_ResourceAdd=Dodaje nowy folder z zasobami.
+
+button_ResourceRemove=Usuń
+tip_ResourceRemove=Usuwa zaznaczony folder z zasobami.
+
+button_ResourceUp=Góra
+tip_ResourceUp=Przenosi folder z zasobami do góry.
+
+button_ResourceDown=Dół
+tip_ResourceDown=Przenosi folder z zasobami w dół.
+
+tip_ResourceOpen=Otwórz zaznaczony folder z zasobami {0}.
+button_ResourceOpen=Otwórz
+
+# Opcje
+opt_KeepSavedGamesSeparate=Zachowaj zapisy gry osobno
+opt_KeepScreenshotsSeparate=Zachowaj zrzuty ekranu osobno
+opt_SaveCrashDump=Zapiuj logi crashy
+opt_CheckForUpdates=Sprawdź aktualizacje
+opt_Assertions=Asercje
+opt_DebugMode=Tryb debugowania
+opt_TerminateOnCrash=Wyłącz przeglądarke przy crashu
+opt_VerboseLogging=Logowanie dodatkowe
+opt_GameOutput=Pokaż wszelkie działania gry w konsoli
+opt_MultithreadedNetworking=Sieci wielowątkowe
+opt_SCM=SCM
+opt_DisableStoryMode=Wyłącz tryb fabularny
+
+opt_AlwaysUsePrimaryMonitorResolution=Zawsze używaj rozdzielczości głównego monitora
+opt_AutomaticAspectRatio=Auto aspect ratio (aka. widescreen fix)
+tip_AutomaticAspectRatio=asdlong
+opt_VCTrails=Vice City trails (ślady)
+tip_VCTrails=Włącza dodatkowe efekty w Vice City, znane z PS2.
+opt_AutoSave=Automatyczny zapis
+opt_SyncAnimations=Synchronizuj animacje
+opt_AllowDirectConnections=Zezwalaj na połączenia bezpośrednie (peer-to-peer)
+
+[TestingWindow]
+
+windowTitle=Testing
+label_Message=Wprowadź hasło testera:
+
+[PasswordWindow]
+
+windowTitle=Podaj hasło
+label_Message=Wprowadź hasło, aby połączyć się z serwerem:
+
+[AddServerWindow]
+
+windowTitle=Dodaj serwer
+label_Message=Wprowadź adres serwera - IP:PORT
+
+[PlayerMapWindow]
+
+windowTitle=Mapa gracza
+
+# Menu
+menu_VCStyle=&Vice City style

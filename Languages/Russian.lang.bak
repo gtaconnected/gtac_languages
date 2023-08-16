@@ -1,0 +1,72 @@
+﻿[Language]
+author=Jack Powell
+
+[Common]
+
+# Tips
+tip_Close=Закрыть это окно.
+tip_Cancel=Закройте это окно без сохранения изменений.
+
+button_Close=близко
+button_Cancel=отменить
+
+[LauncherWindow]
+
+# Menu
+menu_File=&Файл
+menu_CheckForUpdates=Проверьте наличие обновлений...
+menu_Exit=Выход
+
+menu_Tools=&Инструменты
+menu_Settings=&настройки...
+menu_ResetSettings=Сбросить все настройки...
+
+menu_Help=&Помогите
+menu_RunDiagnostics=Запустить диагностику ...
+menu_About=&Около ...
+
+# Messages
+message_Yes=да
+message_No=нет
+message_ConfirmResetSettings=Вы уверены, что хотите сбросить настройки программы запуска по умолчанию?\nЭто действие невозможно отменить, программа запуска перезагрузится.
+
+# Tabs
+tab_Favourites=Избранные
+tab_Internet=интернет
+tab_Official=официальный
+tab_History=история
+tab_Local=Местный
+tab_Mods=Модификации
+
+# Status
+status_Disconnected=Отключенные
+status_Connecting=соединительный
+status_Connected=Подключен к мастеру
+
+# Labels
+label_Game=Игра:
+label_GameEXEPath=Путь к исполняемому файлу:
+
+# Tips
+tip_Games=Игра для запуска.
+tip_CloseLauncher=Закройте это окно при запуске игры.
+tip_Launch=Запустить игру.
+tip_BrowseForGame=Найдите исполняемый файл игры.
+tip_ShowInExplorer=Показать исполняемый файл игры в {0}.
+tip_GameEXEPath=Путь к исполняемому файлу игры.
+
+# Columns
+column_ServerName=Название сервера
+column_Players=игроки
+column_GameMode=Игровой режим
+column_Title=заглавие
+column_Version=Версия
+column_ModifiedDate=Дата изменения
+column_Description=Описание
+
+# Buttons
+button_OpenMenu=Открыто...
+button_CloseLauncher=Закрыть Launcher
+button_Launch=запуск
+button_ShowInExplorer=Показать в {0}
+button_BrowseForGame=Просматривать...
