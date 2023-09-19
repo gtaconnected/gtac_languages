@@ -196,6 +196,7 @@ opt_KeepSavedGamesSeparate=存档独立保存
 opt_KeepScreenshotsSeparate=截图独立保存
 opt_SaveCrashDump=保存崩溃转储
 opt_CheckForUpdates=检查更新
+opt_AllowMultipleInstances=Allow multiple instances
 opt_Assertions=断言
 opt_DebugMode=调试模式
 opt_TerminateOnCrash=崩溃时终止游戏

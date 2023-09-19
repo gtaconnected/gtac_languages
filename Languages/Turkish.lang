@@ -193,6 +193,7 @@ opt_KeepSavedGamesSeparate=Kaydedilmiş Oyunları Ayrı Tut
 opt_KeepScreenshotsSeparate=Ekran Görüntülerini Ayrı Tut
 opt_SaveCrashDump=Hata Raporunu Kaydet
 opt_CheckForUpdates=Güncellemeleri kontrol et
+opt_AllowMultipleInstances=Allow multiple instances
 opt_Assertions=Assertionlar
 opt_DebugMode=Hata Ayıklama Modu
 opt_TerminateOnCrash=Hata olduğunda sonlandır
