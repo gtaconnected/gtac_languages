@@ -196,6 +196,7 @@ opt_KeepSavedGamesSeparate=Zachowaj zapisy gry osobno
 opt_KeepScreenshotsSeparate=Zachowaj zrzuty ekranu osobno
 opt_SaveCrashDump=Zapiuj logi crashy
 opt_CheckForUpdates=Sprawdź aktualizacje
+opt_AllowMultipleInstances=Allow multiple instances
 opt_Assertions=Asercje
 opt_DebugMode=Tryb debugowania
 opt_TerminateOnCrash=Wyłącz przeglądarke przy crashu

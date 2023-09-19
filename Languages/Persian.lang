@@ -196,6 +196,7 @@ opt_KeepSavedGamesSeparate=نگهداری جدا از سیو های گیم
 opt_KeepScreenshotsSeparate=نگهداری جدا عکس های صفحه
 opt_SaveCrashDump=ذخیره لیست کرش ها
 opt_CheckForUpdates=بررسی آخرین نسخه
+opt_AllowMultipleInstances=Allow multiple instances
 opt_Assertions=اعلانات
 opt_DebugMode=رفع باگ مود
 opt_TerminateOnCrash=بستن هنگام کرش

@@ -196,6 +196,7 @@ opt_KeepSavedGamesSeparate=Manter Jogos Salvos Separados
 opt_KeepScreenshotsSeparate=Manter As Capturas De Tela Separadas
 opt_SaveCrashDump=Salvar despejo de memória
 opt_CheckForUpdates=Verificar se há atualizações
+opt_AllowMultipleInstances=Allow multiple instances
 opt_Assertions=Asserções
 opt_DebugMode=Modo debug
 opt_TerminateOnCrash=Fechar durante um crash
