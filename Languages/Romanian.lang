@@ -1,0 +1,234 @@
+[Language]
+name=Romanian
+native_name=Română
+author=syther
+
+[Common]
+
+# Languages
+language_English=Engleză
+language_French=Franceză
+language_German=Germană
+language_Italian=Italiană
+language_Spanish=Spaniolă
+language_Russian=Rusă
+language_Arabic=Arabă
+language_Chinese=Chineză (simplificată)
+language_Persian=Persană
+
+# Tips
+tip_Close=Închideți această fereastră.
+tip_Okay=Închideți această fereastră salvând modificările.
+tip_Cancel=Închideți această fereastră fără a salva modificările.
+
+# Columns
+column_Name=Nume
+column_Title=Titlu
+column_Version=Versiune
+column_ModifiedDate=Data modificata
+column_Description=Descriere
+column_Key=Cheie
+column_Value=Valoare
+
+# Buttons
+button_Okay=OK
+button_Close=Închide
+button_Cancel=Anulare
+button_Yes=Da
+button_No=Nu
+button_Retry=Reîncercați
+button_Abort=Anulați
+
+[LauncherWindow]
+
+# Menu
+menu_File=&Fişier
+menu_CheckForUpdates=Verifică pentru actualizări...
+menu_Exit=Ieșire
+
+menu_Server=&Server
+menu_AddServer=Adauga server
+menu_DeleteServer=Șterge serverul
+
+menu_Tools=&Instrumente
+menu_Settings=&Setări...
+menu_ResetSettings=Resetează toate setările...
+menu_DesktopShortcut=Comandă rapidă pe desktop
+
+menu_View=&Vedere
+menu_Players=&Jucători
+menu_Rules=&Reguli
+menu_FullWidthRules=Reguli pentru lățimea completă
+
+menu_Help=&Ajutor
+menu_RunDiagnostics=Rulați &Diagnosticarea...
+menu_About=&Despre ...
+menu_Licenses=Vedeți &Licențele...
+
+# Generic/Multiplayer
+menu_LargeIcons=Pictograme mari
+menu_Refresh=Reîmprospătează
+menu_Connect=Conectare
+menu_AddToFavourites=Adaugă la favorite
+menu_Favourite=Favorite
+menu_CopyServerIP=Copiați IP-ul serverului
+menu_CopyAddress=Copiați adresa
+menu_ViewPlayerMap=Vizualizați harta jucătorului...
+menu_VisitWebsite=Vizitati site-ul...
+
+# Mods context menu
+menu_ResetAll=Reseteaza toate
+menu_DisableAll=Dezactivați toate
+menu_Delete=Șterge
+
+# Open menu
+menu_LauncherSettings=&Setările launcherului...
+menu_GameSettings=&Setările jocului...
+menu_Resources=Resurse
+menu_Crashes=Crashuri
+menu_Caches=Cachesuri
+menu_Logs=Loguri
+
+# Messages
+message_ConfirmResetSettings=Sigur doriți să resetați setările launcherului la valorile implicite?\nAceastă acțiune nu poate fi anulată, launcherul va reporni.
+
+# Tabs
+tab_Favourites=Favorite
+tab_Internet=Internet
+tab_Official=Oficial
+tab_History=Istoric
+tab_Local=Local
+tab_Mods=Moduri
+
+# Status
+status_Disconnected=Deconectat
+status_Connecting=Conectare
+status_Connected=Conectat la lista de servere
+
+# Labels
+label_Game=Game:
+label_GameEXEPath=Calea EXE pentru joc:
+
+# Tips
+tip_Games=Jocul de lansat.
+tip_CloseLauncher=Închideți această fereastră când lansați jocul.
+tip_Launch=Lasează jocul.
+tip_BrowseForGame=Căutați executabilul jocului.
+tip_ShowInExplorer=Afișați executabilul jocului în {0}.
+tip_GameEXEPath=Calea către executabilul jocului.
+
+# Columns
+column_ServerName=Numele serverului
+column_Players=Jucători
+column_GameMode=Mod de joc
+
+# Group Boxes
+group_Players=Jucători
+group_Rules=Reguli
+
+# Buttons
+button_OpenMenu=Deschide...
+button_CloseLauncher=Închideți Launcherul
+button_Launch=Lansează
+button_ShowInExplorer=Afișați în {0}
+button_BrowseForGame=Navighează...
+
+[AboutWindow]
+
+windowTitle=Despre
+group_About=Despre
+
+# Labels
+label_Product=Produs:
+label_Copyright=Drepturi de autor © {0} {1}
+label_Version=Versiune:
+label_GitBranch=Git Branch:
+label_GitCommitHash=Git Commit Hash:
+label_PacketVersion=Versiune pachet:
+label_BuildDate=Dată Compilare:
+label_BuildTime=Oră Compilare:
+label_Website=Site-ul web:
+label_Patreon=Patreon:
+label_CrashesThisWeek=Crash-uri în această săptămână:
+label_Developers=Dezvoltatori:
+
+[SettingsWindow]
+
+windowTitle=Setări Launcher
+gameSettingsTitle=Setări Joc
+
+# Tabs
+tab_General=General
+tab_AdditionalResourcesFolders=Foldere cu resurse adiționale
+tab_AdditionalMods=Moduri adiționale
+tab_Display=Afişaj
+tab_Advanced=Avansat
+tab_NonModHacks=Hack-uri non-mod
+tab_Licenses=Licențe
+tab_Language=Limba
+tab_BugFixes=Fixări Bug-uri
+tab_Debug=Debug
+
+# Labels
+label_Name=Nume:
+
+# Additional resource folders
+button_ResourceAdd=Adaugă...
+tip_ResourceAdd=Adaugă un nou folder de resurse.
+
+button_ResourceRemove=Elimină
+tip_ResourceRemove=Eliminați folderul de resurse selectat.
+
+button_ResourceUp=Sus
+tip_ResourceUp=Mutați folderul de resurse selectat în sus.
+
+button_ResourceDown=Jos
+tip_ResourceDown=Mutați folderul de resurse selectat în jos.
+
+tip_ResourceOpen=Deschideți folderul de resurse selectat în {0}.
+button_ResourceOpen=Deschide
+
+# Options
+opt_KeepSavedGamesSeparate=Păstrați salvările jocurilor separate
+opt_KeepScreenshotsSeparate=Păstrați capturile de ecran separate
+opt_SaveCrashDump=Salvează Crash Dump
+opt_CheckForUpdates=Verifică pentru actualizări
+opt_AllowMultipleInstances=Permite mai multe instanțe
+opt_Assertions=Aserțiuni
+opt_DebugMode=Mod Debug
+opt_TerminateOnCrash=Terminați la crash
+opt_VerboseLogging=Verbose logging
+opt_GameOutput=Afișează toate rezultatele jocului în consolă
+opt_MultithreadedNetworking=Rețea multithreaded
+opt_SCM=SCM
+opt_DisableStoryMode=Dezactivați modul de poveste
+
+opt_AlwaysUsePrimaryMonitorResolution=Utilizați întotdeauna rezoluția principală a monitorului
+opt_AutomaticAspectRatio=Raport automat de aspect
+opt_VCTrails=Traseele Vice City
+tip_VCTrails=Activează traseele în Vice City
+opt_AutoSave=Salvare automată
+opt_SyncAnimations=Sincronizați animațiile
+opt_AllowDirectConnections=Permite conexiuni directe (peer-to-peer)
+
+[TestingWindow]
+
+windowTitle=Testare
+label_Message=Introduceți codul de acces jos pentru a activa versiunile de testare:
+
+[PasswordWindow]
+
+windowTitle=Parola
+label_Message=Vă rugăm să introduceți parola pentru a vă conecta la server:
+
+[AddServerWindow]
+
+windowTitle=Adaugă server
+label_Message=Introduceți noul server HOST:PORT...
+
+[PlayerMapWindow]
+
+windowTitle=Harta jucătorului
+
+# Menu
+menu_VCStyle=&Stilul Vice City

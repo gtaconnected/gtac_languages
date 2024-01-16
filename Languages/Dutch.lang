@@ -6,230 +6,230 @@ author=Nexel
 [Common]
 
 # Languages
-language_English=English
-language_French=French
-language_German=German
-language_Italian=Italian
-language_Spanish=Spanish
-language_Russian=Russian
-language_Arabic=Arabic
-language_Chinese=Chinese (Simplified)
-language_Persian=Persian
-language_Dutch=Dutch
+language_English=Engels
+language_French=Frans
+language_German=Duits
+language_Italian=Italiaans
+language_Spanish=Spaans
+language_Russian=Russisch
+language_Arabic=Arabisch
+language_Chinese=Chinees (Vereenvoudigd)
+language_Persian=Perzisch
+language_Dutch=Nederlands
 
 # Tips
-tip_Close=Close this window.
-tip_Okay=Close this window saving changes.
-tip_Cancel=Close this window without saving changes.
+tip_Close=Sluit dit scherm.
+tip_Okay=Sluit dit scherm en wijzigingen opslaan.
+tip_Cancel=Sluit dit scherm zonder wijzigingen opslaan.
 
 # Columns
-column_Name=Name
-column_Title=Title
-column_Version=Version
-column_ModifiedDate=Modified Date
-column_Description=Description
-column_Key=Key
-column_Value=Value
+column_Name=Naam
+column_Title=Titel
+column_Version=Versie
+column_ModifiedDate=Datum aangepast
+column_Description=Beschrijving
+column_Key=Sleutel
+column_Value=Waarde
 
 # Buttons
 button_Okay=OK
-button_Close=Close
-button_Cancel=Cancel
-button_Yes=Yes
-button_No=No
-button_Retry=Retry
-button_Abort=Abort
+button_Close=Sluit
+button_Cancel=Annuleer
+button_Yes=Ja
+button_No=Nee
+button_Retry=Opnieuw
+button_Abort=Afbreken
 
 [LauncherWindow]
 
 # Menu
-menu_File=&File
-menu_CheckForUpdates=Check for updates...
-menu_Exit=E&xit
+menu_File=Bestand
+menu_CheckForUpdates=Controleer op updates...
+menu_Exit=Sluit af
 
 menu_Server=&Server
-menu_AddServer=Add Server
-menu_DeleteServer=Delete Server
+menu_AddServer=Server toevoegen
+menu_DeleteServer=Verwijder Server
 
-menu_Tools=&Tools
-menu_Settings=&Settings...
-menu_ResetSettings=Reset all settings...
-menu_DesktopShortcut=Desktop shortcut
+menu_Tools=&Hulpmiddelen
+menu_Settings=&Instellingen...
+menu_ResetSettings=Reset alle instellingen...
+menu_DesktopShortcut=Bureaublad snelkoppeling
 
-menu_View=&View
-menu_Players=&Players
-menu_Rules=&Rules
-menu_FullWidthRules=Full &Width Rules
+menu_View=&Bekijk
+menu_Players=&Spelers
+menu_Rules=&Regels
+menu_FullWidthRules=Volle &Lengte Regels
 
-menu_Help=&Help
-menu_RunDiagnostics=Run &Diagnostics...
-menu_About=&About ...
-menu_Licenses=View &Licenses...
+menu_Help=&Hulp
+menu_RunDiagnostics=&Diagnostiek uitvoeren...
+menu_About=&Over ...
+menu_Licenses=Bekijk &licenties...
 
 # Generic/Multiplayer
-menu_LargeIcons=Large Icons
-menu_Refresh=Refresh
+menu_LargeIcons=Grote iconen
+menu_Refresh=Ververs
 menu_Connect=Connect
-menu_AddToFavourites=Add To Favourites
-menu_Favourite=Favourite
-menu_CopyServerIP=Copy Server IP
-menu_CopyAddress=Copy Address
-menu_ViewPlayerMap=View Player Map...
-menu_VisitWebsite=Visit Website...
+menu_AddToFavourites=Voeg toe aan Favorieten
+menu_Favourite=Favorieten
+menu_CopyServerIP=Kopieer Server IP
+menu_CopyAddress=Kopieer Adres
+menu_ViewPlayerMap=Bekijk spelersmap...
+menu_VisitWebsite=Bezoek Website...
 
 # Mods context menu
-menu_ResetAll=Reset All
-menu_DisableAll=Disable All
-menu_Delete=Delete
+menu_ResetAll=Reset alles
+menu_DisableAll=Schakel alles uit
+menu_Delete=Verwijderen
 
 # Open menu
-menu_LauncherSettings=&Launcher Settings...
-menu_GameSettings=&Game Settings...
+menu_LauncherSettings=&Launcher instellingen...
+menu_GameSettings=&Spel Settings...
 menu_Resources=Resources
 menu_Crashes=Crashes
 menu_Caches=Caches
 menu_Logs=Logs
 
 # Messages
-message_ConfirmResetSettings=Are you sure you wish to reset the launcher settings to defaults?\nThis action cannot be reversed, the launcher will restart.
+message_ConfirmResetSettings=Weet je zeker dat je de instellingen van de launcher terug wil zetten naar de originele instellingen?\nDit kan niet worden teruggedraaid, de launcher zal opnieuw starten.
 
 # Tabs
-tab_Favourites=Favourites
+tab_Favourites=Favorieten
 tab_Internet=Internet
-tab_Official=Official
-tab_History=History
-tab_Local=Local
-tab_Mods=Mods
+tab_Official=Officieel
+tab_History=Geschiedenis
+tab_Local=Lokaal
+tab_Mods=Modificaties
 
 # Status
 status_Disconnected=Disconnected
-status_Connecting=Connecting
-status_Connected=Connected to server listing
+status_Connecting=Verbinden
+status_Connected=Verbonden met de serverlijst
 
 # Labels
-label_Game=Game:
-label_GameEXEPath=Game EXE Path:
+label_Game=Spel:
+label_GameEXEPath=Spel EXE pad:
 
 # Tips
-tip_Games=The game to launch.
-tip_CloseLauncher=Close this window when launching the game.
-tip_Launch=Launch the game.
-tip_BrowseForGame=Browse for the game executable.
-tip_ShowInExplorer=Show the game executable in {0}.
-tip_GameEXEPath=The path to the game executable.
+tip_Games=Het spel om te starten.
+tip_CloseLauncher=Sluit dit scherm als je het spel start.
+tip_Launch=Start het spel.
+tip_BrowseForGame=Zoek naar het spel executable.
+tip_ShowInExplorer=Laat het spel executable zien in {0}.
+tip_GameEXEPath=Het pad naar het spel executable.
 
 # Columns
-column_ServerName=Server Name
-column_Players=Players
-column_GameMode=Game Mode
+column_ServerName=Servernaam
+column_Players=Spelers
+column_GameMode=Spelmodus
 
 # Group Boxes
-group_Players=Players
-group_Rules=Rules
+group_Players=Spelers
+group_Rules=Regels
 
 # Buttons
 button_OpenMenu=Open...
-button_CloseLauncher=Close Launcher
+button_CloseLauncher=Sluit Launcher
 button_Launch=Launch
-button_ShowInExplorer=Show In {0}
-button_BrowseForGame=Browse...
+button_ShowInExplorer=Laat zien in {0}
+button_BrowseForGame=Blader...
 
 [AboutWindow]
 
-windowTitle=About
-group_About=About
+windowTitle=Over
+group_About=Over
 
 # Labels
 label_Product=Product:
 label_Copyright=Copyright © {0} {1}
-label_Version=Version:
+label_Version=Versie:
 label_GitBranch=Git Branch:
 label_GitCommitHash=Git Commit Hash:
-label_PacketVersion=Packet Version:
-label_BuildDate=Build Date:
-label_BuildTime=Build Time:
+label_PacketVersion=Packet Versie:
+label_BuildDate=Bouwdatum:
+label_BuildTime=Bouwtijd:
 label_Website=Website:
 label_Patreon=Patreon:
-label_CrashesThisWeek=Crashes This Week:
-label_Developers=Developers:
+label_CrashesThisWeek=Crashes deze week:
+label_Developers=Ontwerpers:
 
 [SettingsWindow]
 
-windowTitle=Launcher Settings
-gameSettingsTitle=Game Settings
+windowTitle=Launcher instellingen
+gameSettingsTitle=Spelinstellingen
 
 # Tabs
-tab_General=General
-tab_AdditionalResourcesFolders=Additional Resources Folders
-tab_AdditionalMods=Additional Mods
+tab_General=Algemeen
+tab_AdditionalResourcesFolders=Extra Resources Mappen
+tab_AdditionalMods=Extra Mods
 tab_Display=Display
-tab_Advanced=Advanced
-tab_NonModHacks=Non-mod Hacks
-tab_Licenses=Licenses
-tab_Language=Language
-tab_BugFixes=Bug Fixes
+tab_Advanced=Geavanceerd
+tab_NonModHacks=Niet gemodificeerde hacks
+tab_Licenses=Licenties
+tab_Language=Taal
+tab_BugFixes=Bug Oplossingen
 tab_Debug=Debug
 
 # Labels
-label_Name=Name:
+label_Name=Naam:
 
 # Additional resource folders
-button_ResourceAdd=Add...
-tip_ResourceAdd=Adds a new resource folder.
+button_ResourceAdd=Voeg toe...
+tip_ResourceAdd=Voegt een nieuwe resource map toe.
 
-button_ResourceRemove=Remove
-tip_ResourceRemove=Remove the currently selected resource folder.
+button_ResourceRemove=Verwijder
+tip_ResourceRemove=Verwijder de geselecteerde resource map.
 
 button_ResourceUp=Up
-tip_ResourceUp=Move the currently selected resource folder up.
+tip_ResourceUp=Verplaats de geselecteerde resource map omhoog.
 
 button_ResourceDown=Down
-tip_ResourceDown=Move the currently selected resource folder down.
+tip_ResourceDown=Verplaats de geselecteerde resource map omlaag.
 
-tip_ResourceOpen=Open the currently selected resource folder in {0}.
+tip_ResourceOpen=Open de geselecteerde resource map in {0}.
 button_ResourceOpen=Open
 
 # Options
-opt_KeepSavedGamesSeparate=Keep Saved Games Separate
-opt_KeepScreenshotsSeparate=Keep Screenshots Separate
-opt_SaveCrashDump=Save Crash Dump
-opt_CheckForUpdates=Check for updates
+opt_KeepSavedGamesSeparate=Houd de opgeslagen game saves apart
+opt_KeepScreenshotsSeparate=Houd de screenshots apart
+opt_SaveCrashDump=Sla Crash Dump op
+opt_CheckForUpdates=Controleer op updates
 opt_AllowMultipleInstances=Allow multiple instances
 opt_Assertions=Assertions
 opt_DebugMode=Debug mode
-opt_TerminateOnCrash=Terminate on crash
+opt_TerminateOnCrash=Breek af op een crash
 opt_VerboseLogging=Verbose logging
-opt_GameOutput=Show all game output in console
+opt_GameOutput=Laat al het spel output zien in de console
 opt_MultithreadedNetworking=Multithreaded networking
 opt_SCM=SCM
-opt_DisableStoryMode=Disable Story Mode
+opt_DisableStoryMode=Gebruik geen storymode
 
-opt_AlwaysUsePrimaryMonitorResolution=Always use primary monitor resolution
-opt_AutomaticAspectRatio=Automatic aspect ratio
+opt_AlwaysUsePrimaryMonitorResolution=Gebruik altijd de primaire monitor resolutie
+opt_AutomaticAspectRatio=Automatische aspect ratio
 opt_VCTrails=Vice City trails
-tip_VCTrails=Enables trails in Vice City
+tip_VCTrails=Laat trails toe in Vice City
 opt_AutoSave=Auto save
-opt_SyncAnimations=Sync animations
-opt_AllowDirectConnections=Allow direct connections (peer-to-peer)
+opt_SyncAnimations=Synchroniseer animations
+opt_AllowDirectConnections=Laat direct connections toe (peer-to-peer)
 
 [TestingWindow]
 
 windowTitle=Testing
-label_Message=Please enter the access code below to enable testing builds:
+label_Message=Vul de access code hieronder in om testing builds te activeren:
 
 [PasswordWindow]
 
-windowTitle=Password
-label_Message=Please enter the password to connect to the server:
+windowTitle=Wachtwoord
+label_Message=Vul het wachtwoord in om te verbinden met de server:
 
 [AddServerWindow]
 
-windowTitle=Add Server
-label_Message=Enter new server HOST:PORT...
+windowTitle=Voeg server toe
+label_Message=Voeg een nieuwe server toe HOST:PORT...
 
 [PlayerMapWindow]
 
-windowTitle=Player Map
+windowTitle=Spelersmap
 
 # Menu
 menu_VCStyle=&Vice City style
