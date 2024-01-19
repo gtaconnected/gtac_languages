@@ -194,6 +194,7 @@ opt_KeepSavedGamesSeparate=Houd de opgeslagen game saves apart
 opt_KeepScreenshotsSeparate=Houd de screenshots apart
 opt_SaveCrashDump=Sla Crash Dump op
 opt_CheckForUpdates=Controleer op updates
+opt_AllowMultipleInstances=Allow multiple instances
 opt_Assertions=Assertions
 opt_DebugMode=Debug mode
 opt_TerminateOnCrash=Breek af op een crash

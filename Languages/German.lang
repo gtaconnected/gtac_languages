@@ -196,6 +196,7 @@ opt_KeepSavedGamesSeparate=Halte die Spielstände separiert
 opt_KeepScreenshotsSeparate=Halte die Screenshots separiert
 opt_SaveCrashDump=Speichere Crash Dump
 opt_CheckForUpdates=Nach Updates suchen
+opt_AllowMultipleInstances=Allow multiple instances
 opt_Assertions=Sicherstellungen
 opt_DebugMode=Debug-Modus
 opt_TerminateOnCrash=Bei Absturz beenden
