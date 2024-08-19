@@ -168,6 +168,7 @@ tab_Licenses=Licenses
 tab_Language=Language
 tab_BugFixes=Bug Fixes
 tab_Debug=Debug
+tab_Networking=Networking
 
 # Labels
 label_Name=Name:
@@ -210,6 +211,8 @@ tip_VCTrails=Enables trails in Vice City
 opt_AutoSave=Auto save
 opt_SyncAnimations=Sync animations
 opt_AllowDirectConnections=Allow direct connections (peer-to-peer)
+
+opt_Mongoose=Use mongoose (Old networking)
 
 [TestingWindow]
 
