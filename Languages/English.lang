@@ -190,6 +190,7 @@ tip_ResourceOpen=Open the currently selected resource folder in {0}.
 button_ResourceOpen=Open
 
 # Options
+opt_Console=Console
 opt_KeepSavedGamesSeparate=Keep Saved Games Separate
 opt_KeepScreenshotsSeparate=Keep Screenshots Separate
 opt_SaveCrashDump=Save Crash Dump
@@ -211,8 +212,6 @@ tip_VCTrails=Enables trails in Vice City
 opt_AutoSave=Auto save
 opt_SyncAnimations=Sync animations
 opt_AllowDirectConnections=Allow direct connections (peer-to-peer)
-
-opt_Mongoose=Use mongoose (Old networking)
 
 [TestingWindow]
 
